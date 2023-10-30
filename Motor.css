@@ -1,0 +1,206 @@
+*
+{
+    margin: 0px;
+}
+body {
+  background:linear-gradient(to right,black,rgba(255, 255, 255, 0.546));
+}
+
+#head2
+{
+    background-color: black;
+    padding: 20px;
+}
+
+#head2 li,ul,p,nav
+{
+    display: inline;
+}
+#head2 a
+{
+    color: aliceblue;
+}
+#head2 ul
+{
+ margin-left: 40%;
+ background-color: black;
+}
+#head2 p a:hover
+{
+  color: red;
+}
+#head2 p a
+{
+    text-decoration: none;
+}
+#head2 ul li a:hover
+{
+    color: red;
+}
+#head2 ul li a{
+    text-decoration: none;
+}
+#Bullet div
+{
+    font-weight: bold;
+    display: inline-block;
+
+}
+#Bullet h1
+{
+    color: aliceblue;
+    margin: 20px;
+}
+#Bullet1
+{
+    display: block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+
+}
+#Bullet1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#Intercepter h1
+{
+    color: aliceblue;
+}
+#Intercepter1
+{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+#Intercepter1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#Intercepter
+{
+    text-align: center;
+}
+#Intercepter h1
+{
+    color: aliceblue;
+}
+#Himalayan1
+{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    text-align:center;
+    margin: 20px;
+    font-weight: bold;
+}
+#Himalayan
+{
+    text-align: end;
+}
+#Himalayan h1
+{
+    color: rgb(18, 23, 28);
+    margin-right: 20px;
+}
+#Himalayan1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#Continental_Gt1
+{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+#Continental_Gt
+{
+    text-align: center;
+}
+#Continental_Gt1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#Continental_Gt h1
+{
+    color: aliceblue;
+}
+#super_motor1
+{
+    display: block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    width: 400px;
+    margin: 20px;
+}
+#super_motor1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#super_motor
+{
+    text-align: left;
+}
+#super_motor h1
+{
+ color: aliceblue;
+ margin-left: 20px;
+}
+#Hunter1
+{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+#Hunter
+{
+    text-align: center;
+}
+#Hunter1 p a
+{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+#Hunter h1
+{
+    color: aliceblue;
+}

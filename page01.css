@@ -1,0 +1,77 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(Headpic/backround1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    background-color: transparent;
+}
+
+#head {
+   
+    color: bisque;
+    background-color: black;
+    padding: 20px;
+}
+#head p, nav, ul, li {
+    display: inline;
+}
+
+#head ul {
+    margin-left: 55%;
+}
+#head ul li a
+{
+ text-decoration: none;
+}
+#head a
+{
+    color: aliceblue;
+}
+
+#head ul li a:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration:double;
+}
+#royal a
+{
+ text-decoration: none;
+
+}
+#royal p a:hover
+{
+ color: red;
+}
+#testdrive
+{
+    margin-top: 35%;
+    margin-right: 5%;
+    background-color: black;
+    text-align: end;
+    display: inline-block;
+    margin-left: 75%;
+    border-color: cornsilk;
+    border-style: solid;
+    margin-bottom: 20px;
+}
+#testdrive h1 a:hover
+{
+    color: red;
+
+}
+#testdrive p
+{
+    text-align: center;
+}
+
+#testdrive h1 a
+{
+    text-decoration: none;
+    color: aliceblue;
+}

@@ -1,0 +1,42 @@
+#head7 p,nav,li,ul
+{
+    display: inline;
+}
+#head7 ul li
+{
+    margin-left: 80%;
+}
+#head7 p a
+{
+    color:white;
+    text-decoration: none;
+}
+#head7 p a:hover
+{
+    color: red;
+}
+
+#head7 li a
+{
+    color: white;
+    text-decoration: none;
+}
+#head7 li a:hover
+{
+    color: red;
+}
+#head7 
+{
+    background-color: black;
+    padding: 20px;
+}
+#submit p
+{
+    display: inline-block;
+}
+#submit
+{
+ 
+    margin-top: 14px;
+    margin-left: 100px;
+}

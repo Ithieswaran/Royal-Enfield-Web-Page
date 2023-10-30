@@ -1,0 +1,108 @@
+*
+{
+    margin: 0px;
+}
+body
+{
+    background:linear-gradient(to top,rgb(97, 84, 84),white);
+}
+#Head3 li,ul,nav,p
+{
+    display: inline;
+}
+#Head3 ul
+{
+    margin-left: 60%;
+}
+#Head3
+{
+    padding: 20px;
+    background-color: black;
+}
+#Head3 p a
+{
+    color: white;
+    text-decoration: none;
+}
+#Head3 ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+#Head3 p a:hover
+{
+    color: red;
+}
+#Head3 ul li a:hover
+{
+    color: red;
+}
+#vedio2 iframe
+{
+   width: 100%;
+   height: 50vh;
+   display: inline-block;
+}
+#vedio2 div
+{
+    background-color: red;
+    width: 10%;
+    height: 2px;
+    margin-bottom: 10px;
+}
+#History h1
+{
+ margin: 12px;
+}
+#Since h1
+{
+    margin: 12px;
+}
+#Since li
+{
+    margin: 10px;
+    text-align: justify;
+    list-style: upper-alpha;
+}
+#Since span
+{
+    color:rgb(101, 66, 150)
+}
+#Since div
+{
+    background-color: red;
+    width: 10%;
+    height: 2px;
+    margin-bottom: 10px;
+}
+#Contact_us h1
+{
+    margin: 12px;
+}
+#contact_us span
+{
+    color:yellowgreen
+}
+#Contact_us div
+{
+    background-color: red;
+    width: 10%;
+    height: 2px;
+    margin-bottom: 10px;
+}
+#Contact_us li
+{
+    list-style: none;
+    margin: 10px;
+    margin-left: 22px;
+}
+#Contact_us li a
+{
+    color: black;
+    text-decoration: none;
+}
+#Contact_us li a:hover
+{
+    color: red;
+}
+

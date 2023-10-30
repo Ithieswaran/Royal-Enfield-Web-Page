@@ -1,0 +1,223 @@
+*
+{
+    margin: 0px;
+}
+body
+{
+    background-image: url(Accessories/Background.png);
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: transparent;
+}
+#head4 li,ul,nav,p
+{
+    display: inline;
+}
+#head4
+{
+    background-color: black;
+    padding: 20px;
+}
+#head4 a
+{
+    color: aliceblue;
+}
+#head4 ul
+{
+ margin-left: 70%;
+ background-color: black;
+}
+#head4 p a:hover
+{
+  color: red;
+}
+#head4 p a
+{
+    text-decoration: none;
+}
+#head4 ul li a:hover
+{
+    color: red;
+}
+#head4 ul li a{
+    text-decoration: none;
+}
+#search input
+{
+    width: 50%;
+    margin: 20px;
+    background-color: rgb(33, 38, 42);
+    color:white;
+}
+#search
+{
+    text-align: center;
+}
+#acc2
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+
+}
+#acc2 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc2 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+}
+#acc2 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
+#acc3
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+   
+}
+#acc3 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc3 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+  
+}
+#acc3 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
+#acc4
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+   
+}
+#acc4 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc4 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+  
+}
+#acc4 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
+#acc5
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+   
+}
+#acc5 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc5 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+  
+}
+#acc5 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
+#acc6
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+   
+}
+#acc6 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc6 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+  
+}
+#acc6 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
+#acc7
+{
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+   
+}
+#acc7 h1
+{
+  background-color: rgb(181, 169, 153);
+  color: black;
+  padding: 5px;   
+}
+#acc7 p
+{
+    background-color: rgb(181, 169, 153);
+  color: black;
+  
+}
+#acc7 p:hover
+{
+    color: red;
+    cursor: crosshair;
+}
